@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="share_note">Share Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="delete_notes">Delete Notes</string>
+    <string name="no_notes">No Notes!</string>
+    <string name="add">Add</string>
+</resources>
